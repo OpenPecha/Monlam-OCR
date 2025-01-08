@@ -33,13 +33,13 @@ Before you begin, ensure you have the following prerequisites installed and conf
 1. Clone the repository:
 
    ```bash
-   git clone {git https://github.com/OpenPecha/Monlam-OCR.git}
+   git clone https://github.com/OpenPecha/Monlam-OCR.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd {Monlam-OCR}
+   cd Monlam-OCR
    ```
 
 3. Install the dependencies:
