@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: tib-cat
+    name: monlam-ocr
     env: node
     plan: starter
     repo: https://github.com/OpenPecha/Monlam-OCR.git
